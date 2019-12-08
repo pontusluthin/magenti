@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "57370171f3e66f2d1a4f000a403ddf92",
+    "content-hash": "bb838455a1c85301757cf9dc3766956a",
     "packages": [
         {
             "name": "amzn/amazon-pay-and-login-magento-2-module",
@@ -10646,8 +10646,8 @@
             "version": "1.2.3",
             "source": {
                 "type": "git",
-                "url": "https://github.com/mageplaza/magento-2-gdpr.git",
-                "reference": "2a9ead81f2745eedaac95fe3b2f1e3fb0bde00f2"
+                "url": "git@github.com:pontusluthin/module-gdpr",
+                "reference": "59775294230cea7bd70ec8b1c550d9b9857008c3"
             },
             "dist": {
                 "type": "zip",

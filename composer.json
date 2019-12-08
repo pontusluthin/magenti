@@ -62,12 +62,16 @@
     },
     "version": "2.3.3",
     "minimum-stability": "stable",
-    "repositories": [
-        {
+    "repositories": {
+        "0": {
             "type": "composer",
             "url": "https://repo.magento.com/"
+        },
+        "magento2": {
+            "type": "git",
+            "url": "git@github.com:pontusluthin/module-gdpr"
         }
-    ],
+    },
     "extra": {
         "magento-force": "override"
     }
